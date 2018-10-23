@@ -1,4 +1,4 @@
-package com.geopagos.ws.rest;
+package com.geopagos.ws.rest.service;
 
 import com.geopagos.ws.rest.model.*;
 
